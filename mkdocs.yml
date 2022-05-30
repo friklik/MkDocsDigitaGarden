@@ -1,0 +1,5 @@
+site_name: tečaj evanđelja
+
+theme:
+  # name: material
+  name: readthedocs

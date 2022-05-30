@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "3a457ddfc4d867ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "25cfc146481e4f1f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/jotitle/proba.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ebaaf336f1d153b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2c93960a7804b85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "050d93dbf2d04ae8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f47c920028a1d9ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "21561ddf83e97201",
+    "type": "split",
+    "children": [
+      {
+        "id": "7096936d00656e34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7519b53758d7331e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/jotitle/proba.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "25cfc146481e4f1f",
+  "lastOpenFiles": [
+    "docs/jotitle/proba.md",
+    "docs/gfhome.md",
+    "docs/notes/01 Što je potrebno za tečaj.md",
+    "docs/notes/00 Napomene za polaznike.md",
+    "docs/notes/044 Što znači vjerovati.md",
+    "docs/index.md"
+  ]
+}
