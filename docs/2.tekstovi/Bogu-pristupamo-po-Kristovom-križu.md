@@ -1,7 +1,7 @@
 ---
 tags: križ, Krist_Raspeti
 ---
-## Bogu pristupamo po Kristovom križu
+# Bogu pristupamo po Kristovom križu
 - Bog je tako ljubio svijet te je dao svoga Sina Jedinorođenca da nijedan koji u njega vjeruje ne propadne, nego da ima život vječni. (Iv 3,16)
 - ljudi drže da je Bog ljubav - i to je istina - no to se često krivo shvaća.  
 - Bog je ljubav jedino u Isusu Kristu. Milost posinjenje i pomirenje su dani jedino u Isusu Kristu. Jedino u njemu imamo život.
@@ -10,15 +10,16 @@ tags: križ, Krist_Raspeti
 -  it is totaly different if you relate to God in Jesus Christ or outside of Jesus Christ
 - Posve je različito da li se prema Bogu odnosiš u Kristu ili izvan Isusa Krista.
 - Kad kršćanin pristupa Bogu... onda on to ne čini na način kako su to činili ljudi u Starom zavjetu ili kako to čine ostali ljudi - koji ne poznaju Boga niti ono što je Isus Krist učinio. Mi pristupamo Bogu u Kristu.
-- (Jedino) Tko vjeruje u Sina, ima vječni život; a tko neće da vjeruje u Sina, neće vidjeti života; gnjev Božji ostaje na njemu." (Iv 3,36)
-- Milost  je nastala po Isusu Kristu. Do Isusa Krista je Zakon,  (usp. Iv 1,17)
+- Izvan Krista mi ne poznajemo Boga niti on poznaje nas (Gal 4,9).
+- (Jedino) tko vjeruje u Sina, ima vječni život; a tko neće da vjeruje u Sina, neće vidjeti života; gnjev Božji ostaje na njemu." (Iv 3,36)
+- Izvan Krista Bog se prema čovjeku odnosi, ne prema milosti, nego prema drugom mjerilu - mjerilo vječnog moralnog zakona. <!-- vidi Božja svetost -->
 - izvan Krista Bog nije ljubav, nego čista pravednost i svetost, 
-- Izvan Krista mi ne poznajemo Boga niti on poznaje nas (Gal 4,9)
-- Izvan Krista za čovjeka ostaje samo srdžba. (Rim 5,9; Iv 3,36)
-- Izvan Krista Bog se prema čovjeku odnosi, ne prema milosti, nego prema drugom mjerilu - a to je vječni moralni zakon (vidi Božja svetost)
 - Izvan Krista mi smo objekti Božjeg gnjeva (Ef 2,3) (tko je pod zakonom je pod prokletstvom (Gal 3,10)
+- Izvan Krista za čovjeka ostaje samo srdžba. (Rim 5,9; Iv 3,36)
 - Tko je pod Zakonom, pod srdžbom je (Rim) 15Ta Zakon rađa gnjev; (Rom 4:15)
-- o tome svjedoči cijeli Stari zavjet - strašno je upasti u ruke Boga živoga.
+- o tome svjedoči cijeli Stari zavjet.
+- strašno je upasti u ruke Boga živoga. <!-- daj citate iz Sz-->
+- Uistinu, Zakon bijaše dan po Mojsiju, a milost i istina nasta po Isusu Kristu. (Iv 1,17)
 
 
  
