@@ -1,4 +1,4 @@
-#  
+#  Početna
 
 
 <!--  ❗❗❗ 📝Kartice koje trebam ubaciti:
@@ -12,18 +12,18 @@
 - isto tako Crkva 
 -->
 
-- [Napomene za polaznike](notes/000-Napomene-za-polaznike.md)
-- [Što je potrebno za tečaj](notes/001-Što-je-potrebno-za-tečaj.md) 
+- [Napomene za polaznike](1.tečaj/000-Napomene-za-polaznike.md)
+- [Što je potrebno za tečaj](1.tečaj/001-Što-je-potrebno-za-tečaj.md) 
 
 ---
 
-- [Što je evanđelje](notes/002-Što-je-evanđelje.md)
-- [Evanđelje je nadnaravno](notes/003-Evanđelje-je-nadnaravno.md)
+- [Što je evanđelje](1.tečaj/002-Što-je-evanđelje.md)
+- [Evanđelje je nadnaravno](1.tečaj/003-Evanđelje-je-nadnaravno.md)
 
 ---
-- [Krvni savez](notes/010-Krvni-savez.md)
-- [Božanska razmjena](notes/020-Božanska-razmjena.md)
-- [Narav Božje riječi](notes/030-Narav-Božje-riječi.md)
-- [Vjera](notes/040-Vjera.md)
-- [Preobrazba uma](notes/050-Preobrazba-uma.md)
+- [Krvni savez](1.tečaj/010-Krvni-savez.md)
+- [Božanska razmjena](1.tečaj/020-Božanska-razmjena.md)
+- [Narav Božje riječi](1.tečaj/030-Narav-Božje-riječi.md)
+- [Vjera](1.tečaj/040-Vjera.md)
+- [Preobrazba uma](1.tečaj/050-Preobrazba-uma.md)
 - ![cikličko-učenje](assets/cikličko-učenje.png) 
