@@ -31,7 +31,7 @@
 
 
 
-- [rekli smo](011-Krvni-savez-općenito.md): oni koji sklapaju krvni savez postaju dionici jedne te iste krvi, gestom sklapanjem krvnog saveza stranke kažu je: Što je moje tvoje je  i što je tvoje moje je. Stavljaju se potpuno na raspolaganje!
+- Rekli smo: oni koji sklapaju krvni savez postaju dionici jedne te iste krvi, gestom sklapanjem krvnog saveza stranke kažu je: Što je moje tvoje je  i što je tvoje moje je. Stavljaju se potpuno na raspolaganje!
  - Isus ide na križ da bi ispunio obveze krvnog saveza. 
 - Svojom smrću on sklapa savez i daje nam ono što je njegovo svoj božanski život (blagoslov, zajedništvo s Ocem, ozdravljenje, oproštenje), a od nas uzima ono što je naše (prokletstvo grijeh, bolest i smrti)... time On uspostavlja Novo stvorenje
 
