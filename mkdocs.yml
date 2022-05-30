@@ -1,5 +1,11 @@
 site_name: tečaj evanđelja
 
 theme:
-  # name: material
-  name: readthedocs
+  name: material
+  # name: readthedocs
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.details

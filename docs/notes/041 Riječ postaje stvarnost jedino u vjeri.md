@@ -1,4 +1,4 @@
-# 41 Riječ postaje stvarnost jedino u vjeri
+# Riječ postaje stvarnost jedino u vjeri
 - Sve što je Krist zaslužio na križu  pripada nama po krvnom savezu i božanskoj razmjeni koja je proizlazi iz tog saveza.
 - Međutim sve to postaje naše i naša stvarnost jedino ako naučimo živjeti u vjeri. 
 - Vjera je ono što stavlja Riječ Božju u pogon! Vjera je ključ da bi bilo što funkcioniralo u hodu su Bogom. 

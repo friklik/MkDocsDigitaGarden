@@ -8,7 +8,7 @@ da se vjera vaša  ne temelji na mudrosti ljudskoj nego na snazi Božjoj. (1 Kor
 
 
 Kršćanima sve dolazi po križu! 
-<!-- ~~ovdje stavi poveznicu na kartice koje govore o apsolustnosti križa . imam mislim u obsidianu~~ ❗-->
+<!-- ~~ovdje stavi poveznicu na kartice koje govore o apsolustnosti križa . imam mislim u obsidianu~~ ❗--> ^ewetkb
 
 Pavao se svim silama trudi u glave prvih kršćana usaditi (**ocrtati**[^1]) istinu o Kristu raspetom kao aposlutnom središtu vjere.
 
