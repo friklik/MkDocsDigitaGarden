@@ -25,4 +25,4 @@ Da, Bog je u Kristu dao svaki blagoslov (Ef 1,3): za svaki aspekt života: *fina
 
 Vjera je ono što stavlja u pokret Božju riječ!
 
-📝[Vjera](40-Vjera.md) 
+📝[Vjera](040-Vjera.md) 

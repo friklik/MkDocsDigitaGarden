@@ -14,7 +14,7 @@ U tečaju evanđelja  nije toliko naglasak niti na darovima, niti na pomazanjima
 
 
 
-- [Božja riječ odražava Boga](31-Bo%C5%BEja-rije%C4%8D-odra%C5%BEava-Boga.md) 
-- [Ono što je zapisano odnosi se na mene](34-Ono-što-je-zapisano-odnosi-se-na-mene.md) 
-- [Riječ Božja je za sve ista](32-Riječ-Božja-je-za-sve-ista.md) 
-- [Stajati na Božjoj riječi](33-Stajati-na-Bo%C5%BEjoj%20-rije%C4%8Di.md) 
+- [Božja riječ odražava Boga](031-Božja-riječ-odražava-Boga.md) 
+- [Ono što je zapisano odnosi se na mene](034-Ono-što-je-zapisano-odnosi-se-na-mene.md) 
+- [Riječ Božja je za sve ista](032-Riječ-Božja-je-za-sve-ista.md) 
+- [Stajati na Božjoj riječi](033-Stajati-na-Božjoj%20-riječi.md) 

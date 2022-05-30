@@ -23,7 +23,7 @@
 ---
 - [Krvni savez](notes/010-Krvni-savez.md)
 - [Božanska razmjena](notes/020-Božanska-razmjena.md)
-- [Narav Božje riječi](notes/30-Narav-Bo%C5%BEje-rije%C4%8Di.md)
-- [Vjera](notes/40-Vjera.md)
-- [Preobrazba uma](notes/50-Preobrazba-uma.md)
+- [Narav Božje riječi](notes/030-Narav-Božje-riječi.md)
+- [Vjera](notes/040-Vjera.md)
+- [Preobrazba uma](notes/050-Preobrazba-uma.md)
 - ![cikličko-učenje](assets/cikličko-učenje.png) 
