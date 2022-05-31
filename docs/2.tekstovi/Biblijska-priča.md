@@ -1,13 +1,14 @@
 ## Biblijska priča
 [link](obsidian://open?vault=CleanWritingVault&file=01.ulazni%2FBiblijska%20pri%C4%8Da%2F0.Biblijska%20pri%C4%8Da.toc)  
 <!-- -->
-vidi: [📝Čovjek slika Božja i njegova zadaća](Čovjek-slika.md)
+vidi: [📝Čovjek slika Božja i njegova zadaća](Čovjek-slika.md) <br/>
 - Od knjige Postanka do Otkrivenja, Biblija predstavlja jedan veliki plan, projekt, otajstvo, priču koja otkriva tko smo mi, tko je Bog, i koji su njegovi ciljevi za cjelokupno stvorenje.
-	%%- problem sa terminom priča... jest da je previše slab i ima krive konotacije... tipa da se radi o nećem imaginarnom i nestvarnom... but it is not it%%
+<!-- problem sa terminom priča... jest da je previše slab i ima krive konotacije... tipa da se radi o nećem imaginarnom i nestvarnom... but it is not it
+-->
 - sve što piše u Bibliji, i u SZ i u Nz dio je tog velikog projekta, te priče; priče o stvaranju, Padu i Novom stvorenju. 
 - Ta priča i jedino ta priča jest jedina, prava i temeljna istina o stvarnosti. Za razliku od svih ostalih, ova priča nije produkt ljudskog genija, već joj je autor sam Bog. Znali mi to ili ne, mi živimo unutar ove priče. I bez razumijevanja toga mi ne možemo razumjeti niti tko smo mi, niti tko je Bog, niti koji je smisao života. Za nas kršćane bitno je stoga bitno da razumijemo sebe kao dio ove priče. U suprotnom živjet ćemo neke alternativne "istine" o stvarnosti i promašiti.
 - Ova priča ima svoje faze (poglavlja):  početak u Stvaranju, zaplet u Padu i Starom zavjetu, a vrhunac u Isusu Kristu, njegovoj smrti i uskrsnuću, svršetak je u ponovnom dolasku i objavi Isusa Krista, u Novom nebu i novoj zemlji.
-- Glavna tema ove priče jest: slava Božja: Bog je stvorio svijet da ga ispuni svojoj slavom, da Bog bude sve u svemu i da  se "zemlja  ispuniti spoznajom Gospodnjom kao što se vodom pune mora." (Iz 11,9) Tako će ova priča i završiti!
+- Glavna tema ove priče jest: slava Božja: Bog je stvorio svijet da ga ispuni svojoj slavom, da Bog bude sve u svemu i da  se "zemlja  ispuniti spoznajom Gospodnjom kao što se vodom pune mora." (Iz 11,9) Tako ova priča i završava!
 
 ----
 

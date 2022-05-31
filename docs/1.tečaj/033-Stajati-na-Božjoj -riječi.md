@@ -1,7 +1,7 @@
 # stajati na Božjoj riječi
 
 <!-- ~~[[stajati na Božjoj riječi]]~~ ID: 220222SBR-->
-vidi:[📝Na čijoj riječi stojiš](../2.tekstovi/Na-čijoj-riječi-stojiš.md)
+vidi:[📝Na čijoj riječi stojiš](../2.tekstovi/Na-čijoj-riječi-stojiš.md) <br/>
 - vjera znači držati Boga za njegovu riječ, i uvijek računati na Njega i njegovo djelovanje 
 - jedino bezuvjetnim držanjem Božje riječi priznajemo Boga kakvim on jest i jedino na taj način možemo upoznati Njegovo nadnaravno djelovanje
 - Ako ne držimo Božju riječ, onda ne poštujemo Boga niti ga priznajemo kakvim jest. Tada u našem životu smatramo da je nešto drugo, a ne Božja riječ mjerodavno za nas. 

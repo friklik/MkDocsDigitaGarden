@@ -5,7 +5,7 @@ tags: vjera, duhovnost, zrelost
 
 ---
 
-
+vidi: [📝](../1.tečaj/002-Što-je-evanđelje.md)
 <!-- I realy did not understand what this truth means until I understood truth of how to have faith 08.04.2022.
 -->
 - Mnogi misle da Bog favorizira neke posebne, duhovne, svete ljude. Ili, da neki imaju posebne privilegije kod Boga. No, to nije istina. Svaki koji je kršten je Njegovo dijete i ima isti tretman. Bog nije pristran.
