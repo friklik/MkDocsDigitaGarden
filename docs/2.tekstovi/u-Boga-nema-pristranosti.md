@@ -1,5 +1,8 @@
 ---
-tags: vjera, duhovnost, zrelost
+tags: 
+  - vjera 
+  - duhovnost
+  - zrelost
 ---
 # U Boga nema pristranosti
 

@@ -1,5 +1,6 @@
 ---
-tags: savez
+tags: 
+ - savez
 ---
 # Krvni savez
 <!-- [Vidi krvni savez ](obsidian://open?vault=CleanWritingVault&file=0.zettelkasten%2Finbx%2F!str%20Krvni%20Savez) kopraj i izbrziši izvor ❗-->

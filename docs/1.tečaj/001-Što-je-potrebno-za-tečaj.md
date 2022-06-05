@@ -1,4 +1,3 @@
-
 # Što je potrebno imati za tečaj
 
 

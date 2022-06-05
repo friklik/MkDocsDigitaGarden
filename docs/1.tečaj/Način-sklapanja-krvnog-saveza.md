@@ -1,5 +1,6 @@
 ---
-tags: savez
+tags: 
+ - savez
 ---
 # Način sklapanja krvnog saveza
 	❗

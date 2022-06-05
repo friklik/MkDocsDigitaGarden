@@ -3,9 +3,26 @@ site_name: tečaj evanđelja
 theme:
   name: material
   # name: readthedocs
+  features:
+    - header.autohide
+
+plugins: 
+  - tags:
+      tags_file: tags.md
 
 markdown_extensions:
   - admonition
+  - abbr
+  - pymdownx.mark
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.details
+  - attr_list
+  - md_in_html
+  - footnotes
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - toc:
+      permalink: true
+
+ 

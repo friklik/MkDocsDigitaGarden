@@ -1,5 +1,6 @@
 #  Početna
 
+[0000.Što-sve.može](1.tečaj/0000.Što-sve.može.md)
 
 <!--  ❗❗❗ 📝Kartice koje trebam ubaciti:
 %%sve ovo trebam naći u karticama, ankiju, bilježnici i Obsidianu - clean writig vault%%

@@ -1,5 +1,7 @@
 ---
-tags: križ, Krist_Raspeti
+tags: 
+  - križ  
+  - Krist_Raspeti
 ---
 # Bogu pristupamo po Kristovom križu
 - Bog je tako ljubio svijet te je dao svoga Sina Jedinorođenca da nijedan koji u njega vjeruje ne propadne, nego da ima život vječni. (Iv 3,16)
