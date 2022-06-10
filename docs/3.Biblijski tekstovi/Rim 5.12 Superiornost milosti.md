@@ -1,5 +1,5 @@
 ---
-title:
+title: Rim 5,12
 tags: 
   - milost 
   - novo_stvorenje 

@@ -10,7 +10,12 @@ dorada: 5.6.2022.
 ključne riječi: Rim 10,5-10 ❗
 ---
 
-<!-- spoji sa ispovijedanjem i proglašavanjem što je oboje tečaj evanđelja-->
+<!-- spoji sa ispovijedanjem i proglašavanjem što je oboje tečaj evanđelja
+Obsidian [link](obsidian://open?vault=CleanWritingVault&file=0.zettelkasten%2Finbx%2FRim%2010%20-%20Zakonska%20pravednost)
+
+[Iz Logseq.a](logseq://graph/friklik-LogSeq?page=Rim%2010)
+
+-->
 
 ## Tko vrši pravednost u njoj nalazi život
 Tko vrši pravednost u njoj nalazi život - to je zakonska pravednost iz Starog zavjeta.
@@ -34,4 +39,4 @@ Pitanje jest: gdje je taj život? Gdje je taj superiorniji život. Zašto mi kao
 *[Rim 5,1]: 51Opravdani dakle vjerom, u miru smo s Bogom po Gospodinu našem  Isusu Kristu.
  (Rom 5:1)
 
-[^1]: vidi: [Rim 5,1](Rim%205,1.md)
+[^1]: vidi: [Rim5,1](Rim5,1.md)

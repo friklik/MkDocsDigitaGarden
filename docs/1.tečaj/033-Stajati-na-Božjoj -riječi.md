@@ -7,18 +7,22 @@ id: 220222SBR
 # stajati na Božjoj riječi
 
 
-vidi: [📝Na čijoj riječi stojiš](../2.tekstovi/Na-čijoj-riječi-stojiš.md) <br/>
 
 - vjera znači držati Boga za njegovu riječ, i uvijek računati na Njega i Njegovo djelovanje 
 - jedino bezuvjetnim držanjem Božje riječi priznajemo Boga kakvim on jest i jedino na taj način možemo upoznati Njegovo nadnaravno djelovanje
+- vidi: [📝Na čijoj riječi stojiš](../2.tekstovi/Na-čijoj-riječi-stojiš.md) <br/>
 <!-- ovdje ubaci ono od kenyona-->
-- Mjera naše vjere je mjera poznavanja Božje riječi. Vjera ne ide dalje od poznavanja Božje riječi. Vjera je onoliko jaka koliko je pojedinac usvojio Božju riječ i učinio ju mjerodavnim autoritetom za vlastiti život.
-- Vjera znači poznavati Božju riječi, što znači ikako se ona odnosi na moj problem i stajati na Riječi. Isto tako vjera znači imati razvijen karakter i stajati na Božjoj riječi i to na vrlo konkretan i specifičan način - sve dok se ne dođe do rezultata.
-- Um koji nije preobražen radije  se hrani ljudskim riječima (vlastitim ili tuđim idejama) i ne može djelovati po Riječi Božjoj na način kako to djeluje po ljudskoj riječi.
-- Sve dok Riječ ne počne vladati umom, ljudski um će se povoditi za osjećajima, za okolnostima, mišljenjima drugih (filozofijama), stvarima koje vidi i čuje, radije nego za  Riječi.
+- Mjera naše vjere je mjera poznavanja Božje riječi. Vjera ne ide dalje od poznavanja Božje riječi. Vjera je onoliko jaka koliko je pojedinac usvojio Božju riječ i učinio ju mjerodavnom za vlastiti život.
+- Vjera znači poznavati Božju riječ. Poznavati Riječ znači ne samo razumijeti što Riječ, već shvatiti i kako se Riječ odnosi na moj život i na moje probleme. Tek kad tako poznajem  Riječ i usadim je u svoje srce, tek tada mogu stajati na toj Riječi, ispovijedati ju i držati dok za Riječ ne donese ploda. 
+- sto tako vjera znači imati razvijen karakter i stajati na Božjoj riječi i to na vrlo konkretan i specifičan način - sve dok se ne dođe do rezultata.
+- Um koji nije preobraže Riječju  hrani se ljudskim riječima, vlastitim i tuđim idejama, ljudskim logikama i predajama koje nisu u skladu sa Riječju.  Sve dok Božju riječ ne učini mjerodavnom u svim stvarima um neće doći do prave vjere i neće biti sposoban djelovati po Božjoj riječi na način kako to djeluje po ljudskoj. 
+- Sve dok Riječ ne počne vladati umom, ljudski um će se povoditi za osjećajima, za okolnostima, mišljenjima drugih (filozofijama), stvarima koje vidi i čuje.
+- Jer ne postoji prave vjere, izostati će i Bože nadnaravno djelovanje.... Ono biti ili sporadično ili ga neće biti.
 - Obnova uma dolazi kroz djelovanje po riječi u svakoj krizi, dan za danom, kroz dopuštanje da Riječ ima prvo mjesto u našem životu!
-- Okolnosti su uglavnom suprotne Riječi. No ako je vjera ustrajna i nepokolebljiva, okolnosti će se pokoriti  Riječi. Vjera  znači stajanje na Riječi, nasuprot okolnostima.
-- Stajati na Riječi znači: vjera u Riječ je temelj i čvrsto uporište u prolaznosti, nestalnosti i nesigurnosti ljudskog života. Zadatak vjernika je razviti čvrstoću, karakter i nepokolebljivost u odnosu na Božju riječ. Ako Bog nešto kaže, to je za vjernika riješena stvar i od toga više ne odstupa. Ako su me Kristove rane iscijelile, onda suočen sa bolešću vjernik ne odstupa, nego vjeruje - Njegovim sam ranama iscijeljen (Iz 53.) i ozdravljenje dolazi.
+- Okolnosti su uglavnom suprotne Riječi. No ako je vjera ustrajna i nepokolebljiva, okolnosti će se pokoriti  Riječi. Vjera  znači stajati na Riječi, nasuprot okolnostima. 
+- Vjera u Riječ je temelj i čvrsto uporište u prolaznosti, nestalnosti i nesigurnosti ljudskog života. 
+- Zadatak vjernika je razviti čvrstoću, karakter i nepokolebljivost u odnosu na Božju riječ. Ako Bog nešto kaže, to za vjernika mora biti riješena stvar i vjernik od toga više ne odstupa.
+- Ako su me Kristove rane iscijelile, onda suočen sa bolešću vjernik ne odstupa, nego vjeruje - Njegovim sam ranama iscijeljen (Iz 53.) i ozdravljenje dolazi.
 - Bez takvog beskompromisnog odnosa ne može se razviti duboka vjera.
 
 

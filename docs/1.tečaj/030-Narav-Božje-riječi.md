@@ -30,6 +30,10 @@ U tečaju evanđelja  nije toliko naglasak niti na darovima, niti na pomazanjima
 - Božja riječ je čvrst temelj na kojem se može stajati i izgraditi život.
 - Bog je svoj integritet stavio u svoju riječ.
 - I kao što Bog ne može podbaciti, tako niti Božja riječ ne može podbaciti
+Nebo će i zemlja uminuti, ali riječi moje ne, neće uminuti." (Mk 13,31)
+> Ja bdim nad riječima svojim da ih ispunim!" (Jr 1,12)
+> Jer Sin Božji, Isus Krist nije bio "Da!" i "Ne!" nego u njemu bijaše "Da!". Doista, sva obećanja Božja u njemu su "Da!". I stoga po njemu i naš "Amen!" Bogu na slavu! 2 Kor 1,18-20
+
 
 ## U svojoj riječi Bog nam je dao sebe
 - kad Bog daje svoju riječ On time daje sebe samog
@@ -42,9 +46,7 @@ U tečaju evanđelja  nije toliko naglasak niti na darovima, niti na pomazanjima
  
 >  Bog nije kao čovjek da rekne i ne učini, obeća a ne ispuni (Br 23,19)
 > 
-   Nebo će i zemlja uminuti, ali riječi moje ne, neće uminuti." (Mk 13,31)
-> Ja bdim nad riječima svojim da ih ispunim!" (Jr 1,12)
- > Jer Sin Božji, Isus Krist nije bio "Da!" i "Ne!" nego u njemu bijaše "Da!". Doista, sva obećanja Božja u njemu su "Da!". I stoga po njemu i naš "Amen!" Bogu na slavu! 2 Kor 1,18-20
+   
 
 
 
@@ -63,7 +65,7 @@ U tečaju evanđelja  nije toliko naglasak niti na darovima, niti na pomazanjima
 - Mnogi prihvaćaju Božju riječ kao religioznu formu, ali ju nisu niti razumjeli, niti su je naučili uzimati zaozbiljno i zato nikad ne dolaze do prave vjere.
 - Ne uzimati Božju riječ sa  ozbiljnošću je nepoštivanje Božje riječi a time i  ozbiljno nepoštivanje Boga. Naši životi zbog toga ostaju besplodni.
 - Vjera je suprotan stav. Vjera je bezuvjetno stajanje na Božjoj riječi. S time vjera stoji i pada.
-- Uobičajen oblik neposluha Bogu je oslanjanje na ljudske predaje  koje stavljamo namjesto riječi Božje [→📝](../3.Biblijski%20tekstovi/Gal-3,5.md). Svoj odnos s Bogom tada zasnivamo na nečem što je nekompatibilno sa Božjom riječi, tj.  na predajama koje niječu Božju riječ.
+- Uobičajen oblik neposluha Bogu je oslanjanje na ljudske predaje  koje stavljamo namjesto riječi Božje [→📝](../3.Biblijski%20tekstovi/Gal-3_1-5.md). Svoj odnos s Bogom tada zasnivamo na nečem što je nekompatibilno sa Božjom riječi, tj.  na predajama koje niječu Božju riječ.
 - "Tako dokidate riječ Božju svojom predajom, koju  sami sebi predadoste. " (Mk 7,13)
 - Takva vjera zadržava religioznu formu, ali nema sadržaja niti nadnaravnu dimenziju.
 

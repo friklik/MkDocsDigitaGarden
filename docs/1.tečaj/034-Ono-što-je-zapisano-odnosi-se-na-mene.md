@@ -2,7 +2,7 @@
 🌱❗
 
 - Osnovno pravilo kad čitamo Božju riječ jest:  Božja riječ se odnosi na mene. *Po svojoj Riječi Bog govori meni osobno, ovdje i sad.*
-- [Rim 8,32](Rim%208,32.md)
+- [Rim 8,32](../3.Biblijski%20tekstovi/Rim%208,32.md)
 -   he is adressing what concerns me here and now
 -   Gods word, especially what God has done in Jesus Christ is answer to all my problems
 -   Riječ Božju je dobro poosobiti.  
