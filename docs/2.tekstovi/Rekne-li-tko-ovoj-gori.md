@@ -8,6 +8,7 @@ id:
 datum: 12.06.2022.
 ❗ ovo trebam srediti - pregledati tekst
 ---
+
 # “Rekne li tko ovoj gori!”
 
 <!-- [karizmatska web svaštara](https://friklik.wordpress.com/2016/06/11/rekne-li-tko-ovoj-gori/?preview_id=800&preview_nonce=543ac56d42&preview=true)-->
