@@ -41,7 +41,7 @@ Nebo će i zemlja uminuti, ali riječi moje ne, neće uminuti." (Mk 13,31)
 - Po svojoj riječi Bog dolazi u susret tebi i po njoj poziva tebe na intimno zajedništvo sa Sobom. Božja riječ je zalog i obećanje Božje vjernosti.
 - Bog je svoju riječ potvrdio krvlju vlastitog Sina i u njoj je dao dogovor na sve tvoje probleme. [→📝](002-Što-je-evanđelje.md)
 - Božja riječ zato ne može prevariti.
-- Kad kažemo Božja riječ onda prije svega mislimo na [poruku o Kristu raspetom](../3.Biblijski%20tekstovi/1-Sol-2,13.md#Poruka%20akoe%20-%20ἀκοή%20značenje%20riječi).
+- Kad kažemo Božja riječ onda prije svega mislimo na [poruku o Kristu raspetom](3.Biblijski_tekstovi/1-Sol-2,13.md#Poruka%20akoe%20-%20ἀκοή%20značenje%20riječi).
 
  
 >  Bog nije kao čovjek da rekne i ne učini, obeća a ne ispuni (Br 23,19)
@@ -65,7 +65,7 @@ Nebo će i zemlja uminuti, ali riječi moje ne, neće uminuti." (Mk 13,31)
 - Mnogi prihvaćaju Božju riječ kao religioznu formu, ali ju nisu niti razumjeli, niti su je naučili uzimati zaozbiljno i zato nikad ne dolaze do prave vjere.
 - Ne uzimati Božju riječ sa  ozbiljnošću je nepoštivanje Božje riječi a time i  ozbiljno nepoštivanje Boga. Naši životi zbog toga ostaju besplodni.
 - Vjera je suprotan stav. Vjera je bezuvjetno stajanje na Božjoj riječi. S time vjera stoji i pada.
-- Uobičajen oblik neposluha Bogu je oslanjanje na ljudske predaje  koje stavljamo namjesto riječi Božje [→📝](../3.Biblijski%20tekstovi/Gal-3_1-5.md). Svoj odnos s Bogom tada zasnivamo na nečem što je nekompatibilno sa Božjom riječi, tj.  na predajama koje niječu Božju riječ.
+- Uobičajen oblik neposluha Bogu je oslanjanje na ljudske predaje  koje stavljamo namjesto riječi Božje [→📝](3.Biblijski_tekstovi/Gal-3_1-5.md). Svoj odnos s Bogom tada zasnivamo na nečem što je nekompatibilno sa Božjom riječi, tj.  na predajama koje niječu Božju riječ.
 - "Tako dokidate riječ Božju svojom predajom, koju  sami sebi predadoste. " (Mk 7,13)
 - Takva vjera zadržava religioznu formu, ali nema sadržaja niti nadnaravnu dimenziju.
 
@@ -73,7 +73,7 @@ Nebo će i zemlja uminuti, ali riječi moje ne, neće uminuti." (Mk 13,31)
 
 
 vidi dalje:
- [📝Prispodoba o sijaču](Mk%204,3%20Prispodoba%20o%20sijaču.md); [1 Sol 2,13](../3.Biblijski%20tekstovi/1-Sol-2,13.md);
+ [📝Prispodoba o sijaču](3.Biblijski_tekstovi/Mk%204,3%20Prispodoba%20o%20sijaču.md); [1 Sol 2,13](3.Biblijski_tekstovi/1-Sol-2,13.md);
 
 <!-- 
 Nećemo sa dovoljno poštovanja držati Božju riječ i u skladu s tim nećemo izgraditi vlastitu vjeru. Jer .... 

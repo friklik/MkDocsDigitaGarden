@@ -21,7 +21,7 @@
 - [Evanđelje u zajednici](1.tečaj/070-evanđelje-u-zajednici.md)
 ---
 
-[Biblijski tekstovi](3.Biblijski%20tekstovi/001.1-temeljni-biblijski-tekstovi.md)
+[Biblijski tekstovi](3.Biblijski_tekstovi/001.1-temeljni-biblijski-tekstovi.md)
 
 ---
 - [Što je evanđelje](1.tečaj/002-Što-je-evanđelje.md)

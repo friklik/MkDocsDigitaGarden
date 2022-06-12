@@ -3,7 +3,7 @@ ID:  20220108
 ---
 
 # 100 citata iz Novog zavjeta je sve što trebaš
-vidi: [📝](../3.Biblijski%20tekstovi/001.1-temeljni-biblijski-tekstovi.md)
+vidi: [📝](3.Biblijski_tekstovi/001.1-temeljni-biblijski-tekstovi.md)
 - ono što kršćaninu treba za jedan dobar duhovni život vjerojatno bi se dalo svesti  na kojih 100 citata iz Novog zavjeta. Ali tih 100 citata kršćanin bi trebao dobro, ali zbilja dobro znati. Trebao bih ih čitati godinama, razmišljati o njima, usvojiti ih srce moliti na temelju njih i proglašavati. Tih 100 citata bi u njemu trebalo biti stvarnost! I naravno trebao bi ih znati napamet.
 - U tom smislu govori jedan izvrstan citat ==Teofana pustinjaka== koji sam jednom prilikom našao. I kaže: 
 

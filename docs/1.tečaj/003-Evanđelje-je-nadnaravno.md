@@ -18,7 +18,7 @@ Ono što je Krist učinio na Križu treba biti stvarnost življena u sili Duha, 
 Ono što je specifično u kršćanstvu, što garantira njegovu istinitost i što ga razlikuje od ostalih religija  jest da po vjeru u Krista Raspetog  Bog daje Duha i čini silna djela (*dynamis*), znakove i čudesa!
 
 
-Onaj dakle koji vam daje Duha i  čini među vama silna djela, čini li to zbog djela Zakona ili  zbog vjere u Poruku (=Krist raspeti)? **[(Gal 3,1-5)](../3.Biblijski%20tekstovi/Gal-3_1-5.md)** 
+Onaj dakle koji vam daje Duha i  čini među vama silna djela, čini li to zbog djela Zakona ili  zbog vjere u Poruku (=Krist raspeti)? **[(Gal 3,1-5)](3.Biblijski_tekstovi/Gal-3_1-5.md)** 
 
 
 

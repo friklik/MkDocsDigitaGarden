@@ -17,7 +17,7 @@ Time što kršćani ne razumiju i ne ne žive po ovoj poruci u Krista raspetog 
 To će reći umjesto da žive otkupljenjem Kristovim i hode u novosti života svaki prekršaj Zakona - dolazi njima na naplatu!
 
 
-Izgubiti fokus sa Krista raspetog, te središnje istine kršanske vjere je stoga vrlo opasno - jer znači izgubiti  blagoslove vjere: od žive vjere i sile kraljevstva napraviti mrtvu religiju koja u sebi nema sile.  [Gal 3,1-5](../3.Biblijski%20tekstovi/Gal-3_1-5.md) 
+Izgubiti fokus sa Krista raspetog, te središnje istine kršanske vjere je stoga vrlo opasno - jer znači izgubiti  blagoslove vjere: od žive vjere i sile kraljevstva napraviti mrtvu religiju koja u sebi nema sile.  [Gal 3,1-5](3.Biblijski_tekstovi/Gal-3_1-5.md) 
 
 *Zato su među vama mnogi nejaki i nemoćni, i spavaju mnogi.* (**1 Kor 11,30**)
 

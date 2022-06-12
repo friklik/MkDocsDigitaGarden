@@ -4,7 +4,7 @@
 
 - Čuti riječ Božju o Kristu raspetom (krvnom savez) (Iz 53, Mt 8,16-17) Rim 10,4
 	- ❗ Nisam braćo među vama - Isusa Krista raspetog 1 Kor 2,1
-- Razumjeti Da je Bog u svojoj riječi Isusu Kristu dao odgovor ne sve probleme što je Božja riječ, koja je njezina narav i što ona znači! 
+- Razumjeti da je Bog u svojoj riječi Isusu Kristu dao odgovor ne sve probleme što je Božja riječ, koja je njezina narav i što ona znači! 
 - - Vjera znači razumjeti narav Boga i Božje riječi
 	- da Bog stoji iza svoje riječi svim integritetom i svetošću [->📝](030-Narav-Božje-riječi.md). Božja riječ nije da ne, možda, vjerojatno, but će jednom, vidjet ćemo  - Božja riječ je Zaista Zaista kažem vam, Amen Amen. Nebo će i zemlja proći moje riječi neće proći. Ja bdijem nad riječima svojim da ih ispunim. (Jr 1,12) Držati Boga za njegovu riječ
 	- 
