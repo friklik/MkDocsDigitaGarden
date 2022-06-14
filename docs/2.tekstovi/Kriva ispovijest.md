@@ -6,7 +6,10 @@ ključne riječi:
 id:
 ---
 ## Kriva ispovijest
-→[📝Snaga izgovorene riječi](../1.tečaj/040.0-Snaga-izgovorene-riječi.md);→[📝Dvije vrste ispovijesti](Dvije%20vrste%20ispovijesti.md);
+- →[📝Snaga izgovorene riječi](../1.tečaj/040.0-Snaga-izgovorene-riječi.md);
+- →[📝Dvije vrste ispovijesti](Dvije%20vrste%20ispovijesti.md);
+
+
 Malo ljudi shvaća da nas naše ispovijesti zarobljuju. Prava ispovijest nas oslobađa.
 
 Ne radi se samo o našem mišljenju; naše riječi, naši razgovori su ti koji unose snagu ili slabost u nas.
