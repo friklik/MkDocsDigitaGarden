@@ -1,7 +1,7 @@
 ## Biblijska priča
 [link](obsidian://open?vault=CleanWritingVault&file=01.ulazni%2FBiblijska%20pri%C4%8Da%2F0.Biblijska%20pri%C4%8Da.toc)  
 <!-- -->
-vidi: [📝Čovjek slika Božja i njegova zadaća](Čovjek-slika.md) <br/>
+vidi: [📝Čovjek slika Božja i njegova zadaća](Čovjek-slika-Božja.md) <br/>
 - Od knjige Postanka do Otkrivenja, Biblija predstavlja jedan veliki plan, projekt, otajstvo, priču koja otkriva tko smo mi, tko je Bog, i koji su njegovi ciljevi za cjelokupno stvorenje.
 <!-- problem sa terminom priča... jest da je previše slab i ima krive konotacije... tipa da se radi o nećem imaginarnom i nestvarnom... but it is not it
 -->

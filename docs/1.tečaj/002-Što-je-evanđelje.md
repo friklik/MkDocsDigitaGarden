@@ -5,7 +5,7 @@
 [Što je evađelje - Obsidian](obsidian://open?vault=CleanWritingVault&file=001.radna%20mapa%2FEvan%C4%91elje%2FEvan%C4%91elje%20zna%C4%8Denje%20rije%C4%8Di)
 
 -->
-Evanđelje je radosna vijest o tome što je Bog učinio kad je predao svog Sina da bi svaki koji vjeruje u njemu imao oproštenje, život i spasenje, zajedništvo s Bogom snagu uskrsnuća, blagoslov, novi život.
+Evanđelje je radosna vijest o tome što je Bog učinio kad je predao svog Sina da bi svaki koji vjeruje u njemu imao oproštenje, spasenje, zajedništvo s Bogom snagu uskrsnuća, blagoslov, novi život.
 
 <!-- claims are of such magnitude that most do not understand them - just like empty religiou language... and ideed it is hard not to fall into religious trap- holding their truth, but not living their reality.... Almost to good to be true-->
 
@@ -33,5 +33,5 @@ vidi:
 - 📝[Vjera](040-Vjera.md);
 - [📝Bogu pristupamo po Kristovom križu](../2.tekstovi/Bogu-pristupamo-po-Kristovom-križu.md); 
 - [Biblijska priča](../2.tekstovi/Biblijska-priča.md); 
-- [Čovjek slika Božja i njegova zadaća](../2.tekstovi/Čovjek-slika.md);
+- [Čovjek slika Božja i njegova zadaća](../2.tekstovi/Čovjek-slika-Božja.md);
 - [U Boga nema pristranosti](../2.tekstovi/u-Boga-nema-pristranosti.md)

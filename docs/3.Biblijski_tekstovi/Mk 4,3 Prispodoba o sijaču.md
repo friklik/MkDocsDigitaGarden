@@ -35,14 +35,14 @@ tags:
 - Plod se donosi u ustrajnosti.
 > Ono pak u dobroj zemlji - to su oni koji u plemenitu  i dobru srcu slušaju Riječ, zadrže je i donose rod u ustrajnosti."
  (Luke 8:15)
-- čuvanje Riječi je temeljni oblik ljubavi prema Bogu
+- čuvanje Riječi je temeljni oblik ljubavi prema Bogu [📝](../1.tečaj/030-Narav-Božje-riječi.md) 
 -   Kaže mu Juda, ne Iškariotski: "Gospodine, ==kako to da  ćeš se očitovati nama, a ne svijetu==?" John 14:22 
 - Odgovori mu Isus: "Ako me tko ljubi, čuvat će moju riječ pa će i Otac moj ljubiti njega i k njemu ćemo doći i kod njega se nastaniti. John 14:23 
 
 
 ## Posijani uz put
 - ... su oni koji Riječ uopće nisu shvatili niti su je prihvatili kao živu. [📝](3.Biblijski_tekstovi/1-Sol-2,13.md)  
-- kad ne prihvaćamo Božju riječ kakva ona uistinu  jest mi se sa Bogom igramo pokvarenog telefona. Bog kaže meni, mi čujemo drugu. Zbog toga ne dolazi do istinske komunikacije i zajedništva s Bogom. Sotona uzima riječ [📝](3.Biblijski_tekstovi/Gal-3_1-5.md) i riječ ne donosi ploda. 
+- kad ne prihvaćamo Božju riječ kakva ona uistinu  jest mi se sa Bogom igramo pokvarenog telefona. Bog kaže jedno, mi čujemo drugu. Zbog toga ne dolazi do prave komunikacije i zajedništva s Bogom. Sotona uzima riječ [📝](3.Biblijski_tekstovi/Gal-3_1-5.md) i riječ ne donosi ploda. 
 >   O bezumni Galaćani, tko li vas opčara? A pred očima vam je  Isus Krist bio ocrtan kao Raspeti. Gal 3, 1 
 
 - Mnogi kršćani žive nas taj način: imajući religioznu formu, ali ne razumiju snagu Božje riječi

@@ -1,4 +1,14 @@
+---
+tags: 
+ - križ 
+ - Krist_Raspeti 
+ključne riječi:
+id: 220428BR 🌿
+---
+ 
 # A Krist vam je bio ocrtan kao raspeti. (Gal 3,1)
+→[📝Izaija 53](../3.Biblijski_tekstovi/Izaija-53.md)
+→[📝Gal 3,1-5](../3.Biblijski_tekstovi/Gal-3_1-5.md)
 
 
 I ja kada dođoh k vama, braćo, ne dođoh s uzvišenom besjedom  ili mudrošću navješćivati vam svjedočanstvo Božje
@@ -17,7 +27,7 @@ Time što kršćani ne razumiju i ne ne žive po ovoj poruci u Krista raspetog 
 To će reći umjesto da žive otkupljenjem Kristovim i hode u novosti života svaki prekršaj Zakona - dolazi njima na naplatu!
 
 
-Izgubiti fokus sa Krista raspetog, te središnje istine kršanske vjere je stoga vrlo opasno - jer znači izgubiti  blagoslove vjere: od žive vjere i sile kraljevstva napraviti mrtvu religiju koja u sebi nema sile.  [Gal 3,1-5](3.Biblijski_tekstovi/Gal-3_1-5.md) 
+Izgubiti fokus sa Krista raspetog, te središnje istine kršćanske vjere je stoga vrlo opasno - jer znači izgubiti  blagoslove vjere: od žive vjere i sile kraljevstva napraviti mrtvu religiju koja u sebi nema sile.  [Gal 3,1-5](3.Biblijski_tekstovi/Gal-3_1-5.md) 
 
 *Zato su među vama mnogi nejaki i nemoćni, i spavaju mnogi.* (**1 Kor 11,30**)
 

@@ -9,7 +9,6 @@ tags:
 - Bog je ljubav jedino u Isusu Kristu. Milost posinjenje i pomirenje su dani jedino u Isusu Kristu. Jedino u njemu imamo život.
 - Jedino u Isusu Kristu Bog je spoznao nas kao svoje sinove (Gal 4,9) 
 - Bogu i njegovoj ljubavi (milosti, sili uskrsnuća, novom životu (Rim6,4), blagoslovu (Ef 1,3)) pristupamo jedino na temelju Kristove žrtve, na temelju onog što je Isusu Krist učinio na križu. Sav naš odnos događa se u Kristu, po Kristu i zahvaljujući Kristu
--  it is totaly different if you relate to God in Jesus Christ or outside of Jesus Christ
 - Posve je različito da li se prema Bogu odnosiš u Kristu ili izvan Isusa Krista.
 - Kad kršćanin pristupa Bogu... onda on to ne čini na način kako su to činili ljudi u Starom zavjetu ili kako to čine ostali ljudi - koji ne poznaju Boga niti ono što je Isus Krist učinio. Mi pristupamo Bogu u Kristu.
 - Izvan Krista mi ne poznajemo Boga niti on poznaje nas (Gal 4,9).

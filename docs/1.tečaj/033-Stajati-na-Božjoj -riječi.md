@@ -13,9 +13,9 @@ id: 220222SBR
 - vidi: [📝Na čijoj riječi stojiš](../2.tekstovi/Na-čijoj-riječi-stojiš.md) <br/>
 <!-- ovdje ubaci ono od kenyona-->
 - Mjera naše vjere je mjera poznavanja Božje riječi. Vjera ne ide dalje od poznavanja Božje riječi. Vjera je onoliko jaka koliko je pojedinac usvojio Božju riječ i učinio ju mjerodavnom za vlastiti život.
-- Vjera znači poznavati Božju riječ. Poznavati Riječ znači ne samo razumijeti što Riječ, već shvatiti i kako se Riječ odnosi na moj život i na moje probleme. Tek kad tako poznajem  Riječ i usadim je u svoje srce, tek tada mogu stajati na toj Riječi, ispovijedati ju i držati dok za Riječ ne donese ploda. 
-- sto tako vjera znači imati razvijen karakter i stajati na Božjoj riječi i to na vrlo konkretan i specifičan način - sve dok se ne dođe do rezultata.
-- Um koji nije preobraže Riječju  hrani se ljudskim riječima, vlastitim i tuđim idejama, ljudskim logikama i predajama koje nisu u skladu sa Riječju.  Sve dok Božju riječ ne učini mjerodavnom u svim stvarima um neće doći do prave vjere i neće biti sposoban djelovati po Božjoj riječi na način kako to djeluje po ljudskoj. 
+- Vjera znači poznavati Božju riječ. Poznavati Riječ znači ne samo razumijeti što Riječ kaže, već shvatiti i kako se Riječ odnosi na moj život i na moje probleme. Tek kad tako poznajem  Riječ i usadim je u svoje srce, tek tada mogu stajati na toj Riječi, ispovijedati ju i držati dok za Riječ ne donese ploda. 
+- Vjerovati znači imati razvijen karakter i biti sposoban ustrajno stajati na Božjoj riječi dok se ne dođe do rezultata.
+- Um koji nije preobražen Riječju   hrani se ljudskim riječima, vlastitim i tuđim idejama, ljudskim logikama i predajama koje nisu u skladu sa Riječju.  Sve dok Božju riječ ne učini mjerodavnom u svim stvarima um neće doći do prave vjere i neće biti sposoban djelovati po Božjoj riječi na način kako to djeluje po ljudskoj. 
 - Sve dok Riječ ne počne vladati umom, ljudski um će se povoditi za osjećajima, za okolnostima, mišljenjima drugih (filozofijama), stvarima koje vidi i čuje.
 - Jer ne postoji prave vjere, izostati će i Bože nadnaravno djelovanje.... Ono biti ili sporadično ili ga neće biti.
 - Obnova uma dolazi kroz djelovanje po riječi u svakoj krizi, dan za danom, kroz dopuštanje da Riječ ima prvo mjesto u našem životu!

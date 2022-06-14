@@ -8,8 +8,8 @@
 - Ono što je Krist učinio, po snazi krvnog Saveza uračunava se nama, a ono što smo mi učinili po snazi krvnog saveza uračunava se Kristu
 - sve zlo koje je po Božanskoj pravdi trebalo pasti na ljude i na svakog pojedinca, palo je na Isusa 
 - s druge strane: sve dobro koje je pripadalao Isusu, Sinovstvo, pravednost, Duh,  bezgrešnost i nevinosti je postalo dostupno nama
-- tako je Kristova smrt, po krvnom savezu i  razmjena koja se tu dogodila postala temelj našeg odnosa s Bogom, temelj našeg identiteta, temelj razumijevanja našeg ovozemaljskog života i temelja razumijevanja vječnosti.
-- 	- Ako je Krist umro, ja sam umro s njim, ako je Krist uskrsnuo, ja sam uskrsnuo s Njim, ako je Krist posađen na nebesima, ja sam posađen na nebesim, ako je Krist Sin, ja sam primio Posinstvo, po krvnom Savezu imam pristup pred prijestolje milosti [[Pristupajte smjelo prijestolju milosti]]
+- tako je Kristova smrt, po krvnom savezu postala temelj našeg odnosa s Bogom, temelj našeg identiteta, temelj razumijevanja našeg ovozemaljskog života i temelja razumijevanja vječnosti.
+- 	- Ako je Krist umro, ja sam umro s njim, ako je Krist uskrsnuo, ja sam uskrsnuo s Njim, ako je Krist posađen na nebesima, ja sam posađen na nebesim, ako je Krist Sin, ja sam primio Posinstvo, po krvnom Savezu imam pristup pred  [prijestolje milosti](../2.tekstovi/Pristupajmo-smjelo-prijestolju-milosti.md).
 - <!-- ❗ ovdje stavi citate iz biblije-->
 - Ovo je jednostavna istina koja, kad se primjeni u našim životima, sadrži sve što je potrebno i sve što će nam ikad trebati i sada (za ovaj život) i za svu vječnost
 

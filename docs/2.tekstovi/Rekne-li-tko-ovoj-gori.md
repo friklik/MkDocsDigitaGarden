@@ -6,7 +6,7 @@ tags:
 ključne riječi:
 id:
 datum: 12.06.2022.
-❗ ovo trebam srediti - pregledati tekst
+❗ ovo trebam srediti ==znatno skratiti== - pregledati tekst
 ---
 
 # “Rekne li tko ovoj gori!”
@@ -17,7 +17,7 @@ Zaista, kažem  vam, rekne li tko ovoj gori: ‘Digni se i baci u more!’ i u 
 
 Što je GORA u životu vjernika? Gora je PROBLEM. Gora je sve što ti prijeći da živiš Božju volju u svom životu. Gora je sve što te usporava i koči tvoj napredak u kraljevstvu Božjem.
 
-Velik dio vjernika troši svoje vrijeme moleći Boga u svezi gora tj. problema u vlastitom životu. Oni naširoko i nadugačko opisuju, plaću, jadikuju, tuže se Bogu na  svoje probleme. Smatraju kako su oni nerješivi. No u konačnici takve molitve jedva da su išta drugo do izražavanje nevjere i nepouzdanja.
+Velik dio vjernika troši svoje vrijeme moleći Boga u svezi gora tj. problema u vlastitom životu. Oni naširoko i nadugačko opisuju, plaću, jadikuju, tuže se Bogu na  svoje probleme. Smatraju kako su oni nerješivi. No u konačnici takve molitve jedva da su išta drugo do izražavanje nevjere i nepouzdanja. [→📝](Vjera-i-ispovijest.md)
 
 Neki čak koriste GORE  kao izgovor za neučinkovitost svojeg kršćanskog života. Drugi pak izmišljaju učenja i tradicije o Bogu kako bi opravdali gore koje još postoje u njihovim životima.
 

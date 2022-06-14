@@ -6,6 +6,8 @@
 	- [link](obsidian://open?vault=CleanWritingVault&file=0.zettelkasten%2FLiteratureNote%2FIsusov%20na%C4%8Din%20evangelizacije%20u%20Indiji)
 -->
 
+→[📝1 Sol 2,13](../3.Biblijski_tekstovi/1-Sol-2,13.md)
+
 *Ne stidim se, uistinu, evanđelja: ono je snaga (dynamis) Božja na spasenje svakomu tko vjeruje.* **(Rim 1,16)**
 
 
