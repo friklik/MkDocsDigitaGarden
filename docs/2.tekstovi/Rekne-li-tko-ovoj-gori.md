@@ -129,3 +129,5 @@ Vjera podrazumjeva povjerenje u Božju riječ i odgovor na nju. Božja vjera se 
 
 
 [^1]: Zaista, kažem  vam, rekne li tko ovoj gori: ‘Digni se i baci u more!’ i u srcu  svome ne posumnja, nego vjeruje da će se dogoditi to što kaže  – doista, bit će mu! Stoga vam kažem: Sve što god zamolite  i zaištete, vjerujte da ste postigli i bit će vam! (Mk 11:23-24)
+
+^3032c3

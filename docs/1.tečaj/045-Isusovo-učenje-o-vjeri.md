@@ -27,7 +27,7 @@ O ovim aspektima vjere bit će riječi u daljnjim karticama
 
 Kad bi parafrazirali riječi koje je Isus govorio apostolima one bi zvučale ovako: 
 
-"Dečki, ne treba vam više vjere. Umjesto da tražite više vjere, morate razumjeti da vjera djeluje kao sjeme. Sjeme sadiš tako da izgovaraš riječi. Neće biti rezultata ako riječ ne posadiš. Vjera ne dolazi tako da molite za nju veći uvijek ponovnim i ponovnim slušanjem i razmatranjem (izgovorene) Božje riječi, sve dok ta riječ ne postane dio tebe. Kad se na ovaj način tvoja vjera razvije tj. kad Riječ postaje dio tebe tada postaješ potpuno uvjeren u istinitost Riječi, bez obizira na to sa čime se susrećeš u životu. Tada i tvoja izgovorena riječ dobiva snagu i donosi rezultate. Ali to se ne događa preko noći, to je proces koji zahtjeva trud, vrijeme i fokus, učeništvo! Vjera nije prolazni hir, ili privremena moda, vjera je način života."
+"Dečki, ne treba vam više vjere. Umjesto da tražite više vjere, morate razumjeti da vjera djeluje kao sjeme. Sjeme sadiš tako da izgovaraš riječi. Neće biti rezultata ako riječ ne posadiš. Vjera ne dolazi tako da molite za nju veći uvijek ponovnim i ponovnim slušanjem i razmatranjem (izgovorene) Božje riječi, sve dok ta riječ ne postane dio tebe. Kad se na ovaj način tvoja vjera razvije tj. kad Riječ postaje dio tebe tada postaješ potpuno uvjeren u istinitost Riječi, bez obizira na to sa čime se susrećeš u životu. Tada i tvoja izgovorena riječ dobiva snagu i donosi rezultate. Ali to se ne događa preko noći, to je proces koji zahtjeva trud, vrijeme i fokus, učeništvo! Vjera nije prolazni hir, ili privremena moda, vjera je način života." <!--^f92ccc-->
 
 <!--  
 ##  Charles Capps Faith like Seed 

@@ -22,6 +22,7 @@
 ---
 
 [Biblijski tekstovi](3.Biblijski_tekstovi/001.1-temeljni-biblijski-tekstovi.md)
+[temeljne tvrdnje tečaja evanđelja](1.tečaj/002%20temeljne%20tvrdnje%20tečaja%20evanđelja.md)
 
 ---
 - [Što je evanđelje](1.tečaj/002-Što-je-evanđelje.md)

@@ -1,8 +1,9 @@
 # Što je potrebno imati za tečaj
 
 
-
--   Za tečaj su **potrebni**: Biblija, bilježnica, kemijska olovka, highlighter (flomaster za označavanje), kartice  
+- da bi ove bilješke bile korisne njiima se treba služiti <!-- https://qwxlea.github.io/#/page/for%20notes%20to%20be%20useful%2C%20actively%20engage%20with%20them
+-->
+- Za tečaj su **potrebni**: Biblija, bilježnica, kemijska olovka, highlighter (flomaster za označavanje), kartice  
 -   za vrijeme tečaja **uvijek pisati** - bilježiti osnovne misli i citate iz Bibilije. Ovo kasnije koristi da se može o tome kod kuće naknadno razmišljati i ponavljati  
 -   Svaki puta se **dobije zadaća**: naučiti napamet citate koji su se obrađivali u sesiji i nekoliko puta pročitati odlomke iz kojih su citati uzeti  
 -   **Novi sat započinjemo onim što smo učili prošli puta**: ponavljamo lekciju, citate, ono što smo kod kuće spoznali ili što nam znači

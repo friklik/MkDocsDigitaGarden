@@ -6,6 +6,7 @@
 
 -->
 Evanđelje je radosna vijest o tome što je Bog učinio kad je predao svog Sina da bi svaki koji vjeruje u njemu imao oproštenje, spasenje, zajedništvo s Bogom snagu uskrsnuća, blagoslov, novi život.
+<!-- razradi termin EVANĐELJE❗-->
 
 <!-- claims are of such magnitude that most do not understand them - just like empty religiou language... and ideed it is hard not to fall into religious trap- holding their truth, but not living their reality.... Almost to good to be true-->
 

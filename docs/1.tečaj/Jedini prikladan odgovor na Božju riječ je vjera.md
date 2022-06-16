@@ -9,7 +9,7 @@ id:
 
 - Bog je svoju riječ potvrdio krvlju vlastitog Sina i u njoj je dao dogovor na sve tvoje probleme. [→📝](002-Što-je-evanđelje.md)
 - Za vjeru je presudno konkretno i fokusirano razumijevanje Božje riječi. Ako Riječ tako ne razumijemo nikad nećemo izgraditi pravi odnos prema Bogu. 
-- Sve ovisi o tome da Božju riječ uzimamo za potpunom ozbiljnošću. Bez ozbiljnosti Bog  nam ne može iskazati svoju vjernost, niti se može očitovati se kao Bog
+- Sve ovisi o tome da Božju riječ uzimamo za potpunom ozbiljnošću. [Vjera je dijalog sa Bogom](../2.tekstovi/Vjera%20je%20dijalog%20sa%20Bogom%20preko%20Riječi.md) Bez ozbiljnosti Bog  nam ne može iskazati svoju vjernost, niti se može očitovati se kao Bog
 - Mnogi prihvaćaju Božju riječ apstraktno, kao religioznu formu, ali ju zapravo ne  razumiju, niti su je naučili uzimati  kao odgovor na  probleme, niti su naučili po bezuvjetnom držanju Riječi ostvarivati zajedništvu s Bogom. Zatp takvi ne dolaze do žive vjere. Vjera je bezuvjetno stajanje na Božjoj riječi. 
 - Ne uzimati Božju riječ sa  ozbiljnošću je nepoštivanje Riječi i nepoštivanje Boga. Zbog toga životi  ostaju besplodni.
 

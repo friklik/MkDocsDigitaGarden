@@ -4,13 +4,13 @@ tags:
   - proglašavanje
   - vjera
 ključne riječi:
-id:
+id: 20220228IMB
 datum: 12.06.2022.
 ---
 # Isus nije molio za bolesne 
-ID: 20220228IMB
+<!-- vidi još clean writing vault-->
 
-Iako se među kršćanima govori o molitvi za bolesne, istina je zapravo da niti Isus niti apostoli nisu, u strogom smislu riječi - molili za bolesne. 
+Iako se  govori o molitvi za bolesne, istina je zapravo da niti Isus niti apostoli nisu, u strogom smislu riječi - molili za bolesne. 
 Isus je doduše prije svitanja  odlazio u samoću moliti se. Isto tako, Isus je učio učenike da se mole. No kad su u pitanju bolesni, niti Isus niti apostoli nisu molili  - nikada. 
 Nigdje u Novom zavjetu ne postoji zabilježeno da je Isus rekao: "Bože molim te izlječi ovog čovjeka", ili da je učio učenike da se mole na taj način. Umjesto toga, kad se radi o bolesti, Isus  izgovara riječi po kojima se događaju ozdravljenja! Tako čine i apostoli. Isusova "molitva" za bolesne ima oblik zapovijedi, ne molitve.
 

@@ -2,6 +2,7 @@
 
 
 - [Snaga izgovorene riječi](040.0-Snaga-izgovorene-riječi.md)
+- [Vjera je dijalog sa Bogom preko Riječi](../2.tekstovi/Vjera%20je%20dijalog%20sa%20Bogom%20preko%20Riječi.md)
 - [Vjera i ispovijest](../2.tekstovi/Vjera-i-ispovijest.md) 
 - [Zakon vjere - riječ kao sjeme](040.1-Zakon-vjere-riječ-kao-sjeme.md) 
 - [Rekne li tko ovoj gori](../2.tekstovi/Rekne-li-tko-ovoj-gori.md)

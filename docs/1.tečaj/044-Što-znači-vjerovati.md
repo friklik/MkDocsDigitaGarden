@@ -1,4 +1,4 @@
-# Što znači vjerovati
+# Što znači vjerovati - 7 točaka
 
 <!-- # ❗sve ovo što dolje piše pitanje : kako je to prikazano u Rim 10 koji su sve elementi zajednički i Ef 4,17-->
 

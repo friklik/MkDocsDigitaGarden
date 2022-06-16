@@ -4,7 +4,7 @@
 
 
 -  Rekli smo: **krvni savez je pravni temelj za sve što Bog čini.**  
-- Na križu na temelju  [krvnog saveza](010-Krvni-savez.md) se dogodila *božanska razmjena*: 
+- na temelju  [krvnog saveza](010-Krvni-savez.md), na križu  se dogodila *božanska razmjena*: 
 - Ono što je Krist učinio, po snazi krvnog Saveza uračunava se nama, a ono što smo mi učinili po snazi krvnog saveza uračunava se Kristu
 - sve zlo koje je po Božanskoj pravdi trebalo pasti na ljude i na svakog pojedinca, palo je na Isusa 
 - s druge strane: sve dobro koje je pripadalao Isusu, Sinovstvo, pravednost, Duh,  bezgrešnost i nevinosti je postalo dostupno nama
